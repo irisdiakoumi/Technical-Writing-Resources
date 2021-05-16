@@ -8,13 +8,13 @@ A collection of technical writing resources collected around the web.
 
 ## Blogs
 
-[https://www.writethedocs.org/](https://www.writethedocs.org/)
+1. [https://www.writethedocs.org/](https://www.writethedocs.org/)
 
-[https://idratherbewriting.com/](https://idratherbewriting.com/)
+2. [https://idratherbewriting.com/](https://idratherbewriting.com/)
 
-[https://www.docslikecode.com/articles/](https://www.docslikecode.com/articles/)
+3. [https://www.docslikecode.com/articles/](https://www.docslikecode.com/articles/)
 
-[https://medium.com/technical-writing-is-easy](https://medium.com/technical-writing-is-easy)
+4. [https://medium.com/technical-writing-is-easy](https://medium.com/technical-writing-is-easy)
 
 ## Podcasts
 
