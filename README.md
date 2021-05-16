@@ -56,9 +56,3 @@ A collection of technical writing resources collected around the web.
 2. [Microcopy Canvas](https://uxdesign.cc/work-together-to-make-the-words-work-136cb7d5b807)
 3. [How Words Can Make Your Product Stand Out (Google I/O '17)](https://www.youtube.com/watch?v=DIGfwUt53nI)
 
-## Contents
-
-- [Rules](rules.md)
-- [Log - click here to see my progress](log.md)
-- [FAQ](FAQ.md)
-- [Resources](resources.md)
