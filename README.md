@@ -6,8 +6,6 @@ A collection of technical writing resources collected around the web.
 1. [A Reddit Mega-Thread on Introductory Technical Writing Topics](https://www.reddit.com/r/technicalwriting/comments/bomlrj/read_this_before_asking_about_salaries_what/)
 2. [Sarah Drasner's Guide to Career Ladders in Technical Writing](https://career-ladders.dev/docs/)
 
-# Additional Resources on the #100DaysOfTechWriting
-
 ## Blogs
 
 [https://www.writethedocs.org/](https://www.writethedocs.org/)
