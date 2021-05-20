@@ -8,21 +8,21 @@ A collection of technical writing resources collected around the web.
 
 ## Blogs
 
-1. [https://www.writethedocs.org/](https://www.writethedocs.org/)
+1. [Write The Docs](https://www.writethedocs.org/)
 
-2. [https://idratherbewriting.com/](https://idratherbewriting.com/)
+2. [I'd Rather Be Writing](https://idratherbewriting.com/)
 
-3. [https://www.docslikecode.com/articles/](https://www.docslikecode.com/articles/)
+3. [Docs Like Code](https://www.docslikecode.com/articles/)
 
-4. [https://medium.com/technical-writing-is-easy](https://medium.com/technical-writing-is-easy)
+4. [Technical Writing is Easy](https://medium.com/technical-writing-is-easy)
 
 ## Podcasts
 
-1. The Not Boring Tech Writer: [https://www.thenotboringtechwriter.com/](https://www.thenotboringtechwriter.com/)
+[1. The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
 
-2. 10 Min Tech Comm: [https://www.stitcher.com/show/10minute-tech-comm](https://www.stitcher.com/show/10minute-tech-comm)
+[2. 10 Min Tech Comm ](https://www.stitcher.com/show/10minute-tech-comm)
 
-3. Write the Docs Podcast: [https://podcast.writethedocs.org/](https://podcast.writethedocs.org/)
+[3. Write the Docs Podcast](https://podcast.writethedocs.org/)
 
 ## Projects and Ideas
 
@@ -33,6 +33,10 @@ A collection of technical writing resources collected around the web.
 ## Paid opportunities
 
 [A comprehensive repo on Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+
+## Courses
+
+1. [Good with Words: Writing and Editing Specialization](https://www.coursera.org/specializations/good-with-words)
 
 ## Books (both writing and non-writing)
 
