@@ -65,10 +65,16 @@ A collection of technical writing resources collected around the web.
 1. [A list of open source projects with volunteer documentation opportunities](https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/)
 2. [Open Source Projects - Up for Grabs](https://up-for-grabs.net/#/filters?labels=&tags=documentation)
 
+## Tools
+[Docusaurus by Facebook](https://docusaurus.io/)
+
+[API Documentation with Swagger](https://swagger.io/resources/articles/documenting-apis-with-swagger/)
+
 ## Paid opportunities
 
 [A comprehensive repo on Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
-[Who Pays Technical Writers -  A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.](https://whopaystechnicalwriters.com/)
+
+[Who Pays Technical Writers](https://whopaystechnicalwriters.com/) -  A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 
 If you think something is missing, feel free to submit a PR with your suggestions! 
 
