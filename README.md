@@ -4,7 +4,9 @@ A collection of technical writing resources collected around the web.
 ## Articles
 
 1. [A Reddit Mega-Thread on Introductory Technical Writing Topics](https://www.reddit.com/r/technicalwriting/comments/bomlrj/read_this_before_asking_about_salaries_what/)
-2. [Sarah Drasner's Guide to Career Ladders in Technical Writing](https://career-ladders.dev/docs/)
+2. [How to Get Started with Technical Writing](https://www.samjulien.com/how-to-get-started-with-technical-writing) 
+3. [A Guide to Career Ladders in Technical Writing by Sarah Drasner](https://career-ladders.dev/docs/)
+
 
 ## Blogs
 
@@ -18,25 +20,22 @@ A collection of technical writing resources collected around the web.
 
 ## Podcasts
 
-[1. The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
+1. [The Not Boring Tech Writer](https://www.thenotboringtechwriter.com/)
 
-[2. 10 Min Tech Comm ](https://www.stitcher.com/show/10minute-tech-comm)
+2. [10 Min Tech Comm ](https://www.stitcher.com/show/10minute-tech-comm)
 
-[3. Write the Docs Podcast](https://podcast.writethedocs.org/)
-
-## Projects and Ideas
-
-1. [A list of open source projects with volunteer documentation opportunities](https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/)
-
-2. [Open Source Projects - Up for Grabs](https://up-for-grabs.net/#/filters?labels=&tags=documentation)
-
-## Paid opportunities
-
-[A comprehensive repo on Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+3. [Write the Docs Podcast](https://podcast.writethedocs.org/)
 
 ## Courses
 
 1. [Good with Words: Writing and Editing Specialization](https://www.coursera.org/specializations/good-with-words)
+2. [Daily UX Writing]
+3. [Technical Writing Courses by Google](https://developers.google.com/tech-writing/becoming)
+4. [API Documentation Course](https://idratherbewriting.com/learnapidoc/)
+5. [Tech Writers Masterclass](https://www.udemy.com/course/tech-writers-master-class/)
+6. [tekom Europe](https://www.technical-communication.org/)
+7. [TCLoc: Online Master’s Degree in Technical Communication and Localization](https://mastertcloc.unistra.fr/program/format/)
+
 
 ## Books (both writing and non-writing)
 
@@ -60,6 +59,16 @@ A collection of technical writing resources collected around the web.
 1. [UX Writers Collective](https://uxwriterscollective.com/)
 2. [Microcopy Canvas](https://uxdesign.cc/work-together-to-make-the-words-work-136cb7d5b807)
 3. [How Words Can Make Your Product Stand Out (Google I/O '17)](https://www.youtube.com/watch?v=DIGfwUt53nI)
+
+## Projects and Ideas
+
+1. [A list of open source projects with volunteer documentation opportunities](https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/)
+2. [Open Source Projects - Up for Grabs](https://up-for-grabs.net/#/filters?labels=&tags=documentation)
+
+## Paid opportunities
+
+[A comprehensive repo on Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
+[Who Pays Technical Writers -  A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.](https://whopaystechnicalwriters.com/)
 
 If you think something is missing, feel free to submit a PR with your suggestions! 
 
