@@ -36,10 +36,10 @@ A collection of technical writing resources collected around the web.
 
 ### Non-Writing
 
-1. ["Atomic Habits" by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
-2. ["Deep Work" by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
-3. ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
-4. ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
+- ["Atomic Habits" by James Clear](https://www.goodreads.com/book/show/40121378-atomic-habits)
+- ["Deep Work" by Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
+- ["Ego is the Enemy" by Ryan Holiday](http://www.goodreads.com/book/show/27036528-ego-is-the-enemy?from_search=true&search_version=service)
+- ["Meditations" by Marcus Aurelius](https://www.goodreads.com/book/show/662925.Meditations)
 
 ### Writing
 
