@@ -29,7 +29,7 @@ A collection of technical writing resources collected around the web.
 ## Courses
 
 1. [Good with Words: Writing and Editing Specialization](https://www.coursera.org/specializations/good-with-words)
-2. [Daily UX Writing]
+2. [Daily UX Writing](https://dailyuxwriting.com/)
 3. [Technical Writing Courses by Google](https://developers.google.com/tech-writing/becoming)
 4. [API Documentation Course](https://idratherbewriting.com/learnapidoc/)
 5. [Tech Writers Masterclass](https://www.udemy.com/course/tech-writers-master-class/)
