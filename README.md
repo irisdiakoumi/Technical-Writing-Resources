@@ -60,9 +60,9 @@ A collection of technical writing resources collected around the web.
 2. [Microcopy Canvas](https://uxdesign.cc/work-together-to-make-the-words-work-136cb7d5b807)
 3. [How Words Can Make Your Product Stand Out (Google I/O '17)](https://www.youtube.com/watch?v=DIGfwUt53nI)
 
-## Projects and Ideas
+## Contribute to Open Source
 
-1. [A list of open source projects with volunteer documentation opportunities](https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/)
+1. [Open Source Projects with Volunteer Opportunities](https://www.reddit.com/r/technicalwriting/comments/gcfmuh/a_list_of_open_source_projects_with_volunteer/)
 2. [Open Source Projects - Up for Grabs](https://up-for-grabs.net/#/filters?labels=&tags=documentation)
 
 ## Tools
