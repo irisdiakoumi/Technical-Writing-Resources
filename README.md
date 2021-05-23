@@ -48,6 +48,7 @@ A collection of technical writing resources collected around the web.
 
 - ["The Product is Docs" by Christopher Gales and the Splunk Documentation Team](https://www.goodreads.com/book/show/37563319-the-product-is-docs)
 - ["Modern Technical Writing" by Andrew Etter](https://www.goodreads.com/book/show/28433138-modern-technical-writing)
+- ["Design Thinking in Technical Communication" by Jason Tham](https://www.amazon.com/Design-Thinking-Technical-Communication-Collaboration/dp/0367478218)
 - ["Everybody Writes" by Ann Handley](https://www.goodreads.com/book/show/23001125-everybody-writes)
 - ["On Writing Well" by William Zinsser](https://www.goodreads.com/book/show/53343.On_Writing_Well)
 - ["Don't make me think, Revisited" by Steve Krug](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited)
