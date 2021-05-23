@@ -23,11 +23,14 @@ A collection of technical writing resources collected around the web.
 
 ## Courses
 
+- [Technical Writing: Documentation on Software Projects](https://www.pluralsight.com/courses/technical-writing-software-documentation)
 - [Good with Words: Writing and Editing Specialization](https://www.coursera.org/specializations/good-with-words)
-- [Daily UX Writing](https://dailyuxwriting.com/)
+- [Tech Writers Masterclass](https://www.udemy.com/course/tech-writers-master-class/)
+
 - [Technical Writing Courses by Google](https://developers.google.com/tech-writing/becoming)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/)
-- [Tech Writers Masterclass](https://www.udemy.com/course/tech-writers-master-class/)
+- [Daily UX Writing](https://dailyuxwriting.com/)
+
 - [tekom Europe](https://www.technical-communication.org/)
 - [TCLoc: Online Master’s Degree in Technical Communication and Localization](https://mastertcloc.unistra.fr/program/format/)
 
