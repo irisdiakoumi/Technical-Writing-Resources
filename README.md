@@ -69,6 +69,8 @@ A collection of technical writing resources collected around the web.
 - [Google Docs Style Guide](https://developers.google.com/style)
 
 ## Tools
+
+- [Bit.ai, Workplace and Document Collaboration Platform](https://bit.ai/)
 - [Docusaurus by Facebook](https://docusaurus.io/)
 - [API Documentation with Swagger](https://swagger.io/resources/articles/documenting-apis-with-swagger/)
 - [Read the Docs (Sphinx , MkDocs)](https://docs.readthedocs.io/en/stable/index.html)
