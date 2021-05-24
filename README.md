@@ -71,6 +71,7 @@ A collection of technical writing resources collected around the web.
 ## Tools
 
 - [Bit.ai, Workplace and Document Collaboration Platform](https://bit.ai/)
+- [ClickHelp](https://clickhelp.com)
 - [Docusaurus by Facebook](https://docusaurus.io/)
 - [API Documentation with Swagger](https://swagger.io/resources/articles/documenting-apis-with-swagger/)
 - [Read the Docs (Sphinx , MkDocs)](https://docs.readthedocs.io/en/stable/index.html)
