@@ -81,5 +81,11 @@ A collection of technical writing resources collected around the web.
 - [A comprehensive repo on Community Writer Programs](https://github.com/malgamves/CommunityWriterPrograms)
 - [Who Pays Technical Writers](https://whopaystechnicalwriters.com/) -  A curated collection of active publishers, publications, and agencies that pay fair rates for high-quality technical content.
 
+## Networking
+- [Joing the Write the Docs Slack Network](https://www.writethedocs.org/slack/)
+
+## Events
+- [Write the Docs Confererence Prague, 3-5/10/2021](https://www.writethedocs.org/conf/prague/2021/)
+
 If you think something is missing, feel free to submit a PR with your suggestions! 
 
